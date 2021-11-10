@@ -7,4 +7,5 @@ target 'FastWeather' do
 
   # Pods for FastWeather
 pod 'SVGKit'
+pod 'Firebase/Analytics'
 end
