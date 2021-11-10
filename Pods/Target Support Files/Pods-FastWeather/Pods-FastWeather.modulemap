@@ -1,0 +1,6 @@
+framework module Pods_FastWeather {
+  umbrella header "Pods-FastWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
